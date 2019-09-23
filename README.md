@@ -5,7 +5,7 @@ Old attempt to create a pdf file for information system project of barangay Sali
 
 Sample barangay forms of the information system project for barangay Salitran
 
-# Dated: 
+Dated: 
 # 11/05/2018
 
 /**sorry for the spaghetti code
